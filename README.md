@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="/imagens/relax-mario.gif">
+
 <!--ESTATISTICAS-->
 <div>
   <a href="https://github.com/Leonardotei">
