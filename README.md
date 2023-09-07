@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center"><img src="/imagens/relax-mario.gif"></div>
 
 <!--ESTATISTICAS-->
@@ -10,24 +8,11 @@
 </div>
 
 
-# Estudando 
+## Estudando <img width="30" src="/imagens/flying--tails.gif">
 
-<img src="/imagens/flying--tails.gif">
+<img width="96" height="96" src="https://img.icons8.com/nolan/96/1A6DFF/C822FF/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="96" height="96" src="https://img.icons8.com/nolan/96/c-sharp-logo.png" alt="c-sharp-logo"/>
+<img width="96" height="96" src="https://img.icons8.com/nolan/96/html-5.png" alt="html-5"/><img width="96" height="96" src="https://img.icons8.com/nolan/96/1A6DFF/C822FF/css3.png" alt="css3"/>
+<img width="96" height="96" src="https://img.icons8.com/nolan/96/1A6DFF/C822FF/javascript-logo.png" alt="javascript-logo"/>
+<br><img width="250" src="/imagens/sonic.jpg"/>
 
-<img width="96" height="96" src="https://img.icons8.com/nolan/96/FF5300/45145A/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="96" height="96" src="https://img.icons8.com/nolan/96/c-sharp-logo.png" alt="c-sharp-logo"/>
-<!--
-**Leonardotei/Leonardotei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Icons by icons8.com -->
